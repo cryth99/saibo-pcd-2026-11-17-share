@@ -1,0 +1,467 @@
+{
+ "f01-platform": {
+  "prompt": "Interior of an immense pure-white temple plaza: nine colossal square white pillars forty meters tall, evenly spaced, hairline geometric engravings glowing softly from bottom to top on each pillar, seamless white stone floor with barely visible geometric inlay, thick white fog thirty meters away swallowing the horizon, a single small human figure standing alone at the bottom center",
+  "file": "images/f01-platform.jpg",
+  "block": "F01",
+  "sub": "",
+  "bytes": 159871,
+  "at": "2026-11-17 01:05"
+ },
+ "f01-dao-stairs": {
+  "prompt": "A long white stone staircase of one hundred and eight wide steps rising into clouds toward the silhouette of a distant mountain gate, cold grey-blue palette, mist sinking away on both sides, one small figure climbing the stairs seen from behind and below",
+  "file": "images/f01-dao-stairs.jpg",
+  "block": "F01",
+  "sub": "F01-02",
+  "bytes": 161491,
+  "at": "2026-11-17 01:05"
+ },
+ "f01-fo-corridor": {
+  "prompt": "A perfectly symmetrical stone corridor leading toward the facade of a vast Buddhist hall, six pairs of stone lanterns with steady small flames on both sides, warm limestone palette, complete bilateral symmetry, the great doors slightly opening, one small figure walking in",
+  "file": "images/f01-fo-corridor.jpg",
+  "block": "F01",
+  "sub": "F01-05",
+  "bytes": 213564,
+  "at": "2026-11-17 01:05"
+ },
+ "f02-altar": {
+  "prompt": "Quiet temple interior with a dark wooden altar table, one incense stick burning with a thin curl of smoke, an old bronze incense burner, hands together in a prayer gesture, warm candle glow, ink-wash walls fading into white",
+  "file": "images/f02-altar.jpg",
+  "block": "F02",
+  "sub": "",
+  "bytes": 97570,
+  "at": "2026-11-17 01:06"
+ },
+ "f03-strip": {
+  "prompt": "A long narrow rice-paper fortune slip held between two fingers, warm fibrous paper texture, faint gold border, four vertical columns of abstract brush calligraphy strokes that are not readable, resting above a dark wooden desk with an oil lamp and a bronze mirror",
+  "file": "images/f03-strip.jpg",
+  "block": "F03",
+  "sub": "",
+  "bytes": 114589,
+  "at": "2026-11-17 01:06"
+ },
+ "f05-beiling": {
+  "prompt": "Five stages of a small luminous spirit companion beside a seated person in a vast white hall, arranged as one continuous image from left to right: a tiny firefly-like orb, a half-formed glow of light, a small deer-like body made of light with trailing particles, a guiding wisp leading forward, a calm guardian light at rest",
+  "file": "images/f05-beiling.jpg",
+  "block": "F05",
+  "sub": "",
+  "bytes": 233302,
+  "at": "2026-11-17 01:06"
+ },
+ "f06-diary": {
+  "prompt": "A person kneeling on a round cushion in a dim meditation room, faint glowing geometric patterns lighting up on the stone floor beneath them, mist slowly turning into steady warm light, a small handwritten journal lying open on the floor, ink-wash atmosphere around the edges",
+  "file": "images/f06-diary.jpg",
+  "block": "F06",
+  "sub": "",
+  "bytes": 131358,
+  "at": "2026-11-17 01:06"
+ },
+ "f08-memorial": {
+  "prompt": "Memorial niche wall inside a temple, one niche perfectly centered in frame with a softly lit tablet and a small framed photograph, a short incense stick, modest offerings of white flowers, eye-level centered composition, quiet warm light, shallow depth of field",
+  "file": "images/f08-memorial.jpg",
+  "block": "F08",
+  "sub": "",
+  "bytes": 137558,
+  "at": "2026-11-17 01:07"
+ },
+ "f09-ritual": {
+  "prompt": "Grand dharma assembly inside a vast Buddhist hall: a monk in ceremonial robes raising a staff on a raised platform, hundreds of small oil lamps, long banners turning slowly, thick incense smoke, warm gold and deep crimson, dramatic shafts of light from high windows, the crowd tiny below",
+  "file": "images/f09-ritual.jpg",
+  "block": "F09",
+  "sub": "",
+  "bytes": 189543,
+  "at": "2026-11-17 01:07"
+ },
+ "f10-festival": {
+  "prompt": "Night festival in a temple courtyard: a palanquin procession with paper lanterns moving along a stone path, a dense crowd of tiny figures, dozens of sky lanterns rising, red and gold light, low mist, wide shot from above",
+  "file": "images/f10-festival.jpg",
+  "block": "F10",
+  "sub": "",
+  "bytes": 185030,
+  "at": "2026-11-17 01:08"
+ },
+ "f04-side-room": {
+  "prompt": "A quiet side room in a temple with two low couches facing each other across a small tea table, incense burning, side light entering from a narrow window so faces stay in soft shadow, one robed figure seated waiting, ink-wash walls",
+  "file": "images/f04-side-room.jpg",
+  "block": "F04",
+  "sub": "",
+  "bytes": 144349,
+  "at": "2026-11-17 01:08"
+ },
+ "f07-ledger": {
+  "prompt": "A private temple ledger booklet open on a low wooden desk, thick fibrous paper pages with faint ruled columns, a brush and an ink stone beside it, a thin stick of incense burning in a small holder, warm lamplight, ink-wash shadows",
+  "file": "images/f07-ledger.jpg",
+  "block": "F07",
+  "sub": "",
+  "bytes": 123935,
+  "at": "2026-11-17 01:14"
+ },
+ "f12-shop": {
+  "prompt": "A small temple supply shop interior: wooden shelves with amulets, prayer beads, folded paper talismans and simple ceramics arranged by hand, a shopkeeper in plain robes standing behind a low counter, warm lantern light, quiet and lived-in",
+  "file": "images/f12-shop.jpg",
+  "block": "F12",
+  "sub": "",
+  "bytes": 169218,
+  "at": "2026-11-17 01:15"
+ },
+ "f15-hall": {
+  "prompt": "A shared practice hall at dawn: eight round cushions arranged in two rows on a wooden floor, tall windows letting in pale morning light and mist, a single bronze bell at the side, empty and waiting",
+  "file": "images/f15-hall.jpg",
+  "block": "F15",
+  "sub": "",
+  "bytes": 80947,
+  "at": "2026-11-17 01:15"
+ },
+ "f11-vow": {
+  "prompt": "A person standing before a temple altar holding a folded paper vow slip, head slightly bowed, warm candlelight from below, incense smoke curling upward, deep red pillars softly out of focus on both sides",
+  "file": "images/f11-vow.jpg",
+  "block": "F11",
+  "sub": "",
+  "bytes": 130608,
+  "at": "2026-11-17 01:15"
+ },
+ "f14-cards": {
+  "prompt": "f14 cards",
+  "file": "images/f14-cards.jpg",
+  "block": "F14",
+  "sub": "",
+  "bytes": 194972,
+  "at": ""
+ },
+ "f01-purify": {
+  "prompt": "Close view of hands cupped under a thin stream of water falling into a carved white stone basin, concentric ripples widening, two droplets falling, soft side light, robe sleeve at the edge of frame, intimate and quiet",
+  "file": "images/f01-purify.jpg",
+  "block": "F01",
+  "sub": "F01-08",
+  "bytes": 129798,
+  "at": "2026-11-17 01:30"
+ },
+ "f02-pray": {
+  "prompt": "A small child attendant standing beside a kneeling worshipper, palms pressed together with a slight nod, then turning to step aside to make way, incense table in the foreground, warm dim light, seen from behind the worshipper",
+  "file": "images/f02-pray.jpg",
+  "block": "F02",
+  "sub": "F02-02",
+  "bytes": 116685,
+  "at": "2026-11-17 01:31"
+ },
+ "f02-kneel": {
+  "prompt": "A person kneeling upright on a round woven cushion in a vast dim hall, back straight, a low wooden counter with tally marks beside them, thin incense smoke, single shaft of light from high above, seen from the side",
+  "file": "images/f02-kneel.jpg",
+  "block": "F02",
+  "sub": "F02-04",
+  "bytes": 137882,
+  "at": "2026-11-17 01:31"
+ },
+ "f02-meditate": {
+  "prompt": "A single person sitting cross-legged on a cushion in an entirely white empty space with no horizon, no decoration, only a faint circle of light around them, mist dissolving into white, extreme minimalism and stillness",
+  "file": "images/f02-meditate.jpg",
+  "block": "F02",
+  "sub": "F02-05",
+  "bytes": 83164,
+  "at": "2026-11-17 01:31"
+ },
+ "f02-lantern": {
+  "prompt": "Dozens of paper sky lanterns rising into the night above a temple roof, one lantern in the near foreground with warm paper glow, embers and thin smoke, deep blue sky, slightly low angle",
+  "file": "images/f02-lantern.jpg",
+  "block": "F02",
+  "sub": "F02-06",
+  "bytes": 113031,
+  "at": "2026-11-17 01:32"
+ },
+ "f02-bell": {
+  "prompt": "A bronze temple bell hanging in a wooden pavilion at dawn, a wooden striker resting against it, mist and low sun rays, worn stone floor, nobody present",
+  "file": "images/f02-bell.jpg",
+  "block": "F02",
+  "sub": "F02-09",
+  "bytes": 113557,
+  "at": "2026-11-17 01:32"
+ },
+ "f02-sutra": {
+  "prompt": "A hand-brushed sutra page being copied at a wooden desk, brush and ink stone, a smartphone lying beside the paper photographing the finished page, warm lamp light, ink-wash shadows, top-down view",
+  "file": "images/f02-sutra.jpg",
+  "block": "F02",
+  "sub": "F02-10",
+  "bytes": 408843,
+  "at": "2026-11-17 01:33"
+ },
+ "f02-meal": {
+  "prompt": "A long plain wooden table in a temple refectory, eight simple bowls with steam rising, chopsticks laid straight, tall windows with morning light, empty benches, no people",
+  "file": "images/f02-meal.jpg",
+  "block": "F02",
+  "sub": "F02-11",
+  "bytes": 322824,
+  "at": "2026-11-17 01:33"
+ },
+ "f02-dana": {
+  "prompt": "An open palm giving a small folded paper packet across a low stone ledge toward a pair of worn working hands, warm afternoon light, shallow depth of field, no faces",
+  "file": "images/f02-dana.jpg",
+  "block": "F02",
+  "sub": "F02-12",
+  "bytes": 336121,
+  "at": "2026-11-17 01:33"
+ },
+ "f02-release": {
+  "prompt": "A riverbank at dusk with a person releasing a small bird from cupped hands, reeds and mist over water, warm gold light on water, distant hills like an ink painting",
+  "file": "images/f02-release.jpg",
+  "block": "F02",
+  "sub": "F02-13",
+  "bytes": 338130,
+  "at": "2026-11-17 01:34"
+ },
+ "f03-bamboo": {
+  "prompt": "A cylinder of bamboo fortune sticks on a temple altar, one stick standing slightly higher than the rest, red thread tied around the cylinder, candlelight from the side, worn wooden surface",
+  "file": "images/f03-bamboo.jpg",
+  "block": "F03",
+  "sub": "F03-05",
+  "bytes": 311962,
+  "at": "2026-11-17 01:34"
+ },
+ "f03-ziwei": {
+  "prompt": "A dim temple reading room with a single illuminated scroll on a low table, an ornate circular star chart glowing faintly above it with fourteen small star points, deep shadows, quiet and mysterious",
+  "file": "images/f03-ziwei.jpg",
+  "block": "F03",
+  "sub": "F03-06",
+  "bytes": 342847,
+  "at": "2026-11-17 01:34"
+ },
+ "f04-welcome": {
+  "prompt": "A senior monk waiting at the threshold of a great hall, hands folded, one small figure approaching across a stone courtyard, long shadows at dusk, incense smoke drifting out of the doorway",
+  "file": "images/f04-welcome.jpg",
+  "block": "F04",
+  "sub": "F04-03",
+  "bytes": 321054,
+  "at": "2026-11-17 01:35"
+ },
+ "f04-memory": {
+  "prompt": "Two low couches facing each other in a side room, one monk seated with head slightly tilted as if recalling something, a tea cup with no steam left, a thin notebook closed on the table between them",
+  "file": "images/f04-memory.jpg",
+  "block": "F04",
+  "sub": "F04-04",
+  "bytes": 287082,
+  "at": "2026-11-17 01:35"
+ },
+ "f05-awake": {
+  "prompt": "A small orb of warm light resting on a folded blanket at night, just beginning to brighten and lift, faint particles drifting upward, dark room with one distant window, tender and quiet",
+  "file": "images/f05-awake.jpg",
+  "block": "F05",
+  "sub": "F05-06",
+  "bytes": 338601,
+  "at": "2026-11-17 01:36"
+ },
+ "f06-wall": {
+  "prompt": "A wall of thousands of small anonymous paper slips pinned in a loose grid in a temple corridor, each slip blank to the eye, warm side light raking across the paper edges, one slip glowing softly",
+  "file": "images/f06-wall.jpg",
+  "block": "F06",
+  "sub": "F06-05",
+  "bytes": 415745,
+  "at": "2026-11-17 01:36"
+ },
+ "f06-formats": {
+  "prompt": "Five different blank journals arranged in a row on a long table, from a thin single sheet of paper to an ornate bound volume, each with different paper texture and binding, raking light showing the fibers",
+  "file": "images/f06-formats.jpg",
+  "block": "F06",
+  "sub": "F06-02",
+  "bytes": 287735,
+  "at": "2026-11-17 01:36"
+ },
+ "f07-page": {
+  "prompt": "An open private ledger on a dark desk, one ritual per page with a small painted scene at the top of each page, a silk bookmark, ink-wash border decoration, warm lamp light from the left",
+  "file": "images/f07-page.jpg",
+  "block": "F07",
+  "sub": "F07-01",
+  "bytes": 359814,
+  "at": "2026-11-17 01:37"
+ },
+ "f08-3d": {
+  "prompt": "A photograph lying on a table beside a slowly forming translucent three-dimensional likeness made of pale light, as if a portrait is being sculpted from fog, soft blue and warm gold contrast",
+  "file": "images/f08-3d.jpg",
+  "block": "F08",
+  "sub": "F08-02",
+  "bytes": 331169,
+  "at": "2026-11-17 01:37"
+ },
+ "f08-funeral": {
+  "prompt": "A quiet memorial gathering at dusk: rows of low seats facing a small stage with a single lectern and one lamp, white flowers, paper lanterns not yet lit, empty chairs, solemn atmosphere",
+  "file": "images/f08-funeral.jpg",
+  "block": "F08",
+  "sub": "F08-06",
+  "bytes": 288190,
+  "at": "2026-11-17 01:37"
+ },
+ "f09-before": {
+  "prompt": "A vast temple hall in two states side by side: on the left dim and bare with cold grey light, on the right the same hall transformed with hundreds of small lamps, warm gold banners and thick incense light, symmetrical comparison",
+  "file": "images/f09-before.jpg",
+  "block": "F09",
+  "sub": "F09-03",
+  "bytes": 337770,
+  "at": "2026-11-17 01:38"
+ },
+ "f10-incense": {
+  "prompt": "A crowd of small figures gathered before a temple gate at first light, a single tall incense stick raised in front of them, mist and cold blue air, one warm spotlight on the incense tip",
+  "file": "images/f10-incense.jpg",
+  "block": "F10",
+  "sub": "F10-03",
+  "bytes": 349452,
+  "at": "2026-11-17 01:38"
+ },
+ "f10-table": {
+  "prompt": "Rows of round banquet tables with offerings in a temple courtyard at night, unattended chairs, one table set apart with a single lamp, red and gold palette, low mist",
+  "file": "images/f10-table.jpg",
+  "block": "F10",
+  "sub": "F10-04",
+  "bytes": 410740,
+  "at": "2026-11-17 01:39"
+ },
+ "f10-ghost": {
+  "prompt": "Hundreds of small points of light rising from empty banquet tables into the night sky over a temple courtyard, tiny sparks drifting upward, deep blue and warm gold, wide shot",
+  "file": "images/f10-ghost.jpg",
+  "block": "F10",
+  "sub": "F10-06",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-8c5ff8a4-865d-9757-b75d-ed8bbc0d01c7-219bebbe.jpeg",
+  "bytes": 335666,
+  "at": "2026-11-17 01:40"
+ },
+ "f12-counter": {
+  "prompt": "A wooden counter in a temple shop with an opened cabinet door showing two different interior arrangements side by side, a hand holding a small preview card, warm lantern light, quiet detail",
+  "file": "images/f12-counter.jpg",
+  "block": "F12",
+  "sub": "F12-04",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-3c495f6e-fd26-9577-bdfc-a9d3e781dfe0-29c219d1.jpeg",
+  "bytes": 297965,
+  "at": "2026-11-17 01:40"
+ },
+ "f14-pools": {
+  "prompt": "Three open catalogues on dark silk, one like a folded sutra book, one like a photo album, one like a small cabinet drawer, each filled with cards, soft gold edges, raking light",
+  "file": "images/f14-pools.jpg",
+  "block": "F14",
+  "sub": "F14-06",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-9c918c5f-a03a-95f6-bb53-fe37591ac4a7-d8172723.jpeg",
+  "bytes": 309970,
+  "at": "2026-11-17 01:40"
+ },
+ "f14-gacha": {
+  "prompt": "A three-panel storyboard strip showing a card lifting from a deck, turning over in mid-air with light spilling from its edge, and landing face up and glowing on silk, sequential motion, gold dust",
+  "file": "images/f14-gacha.jpg",
+  "block": "F14",
+  "sub": "F14-09",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-b682a7c8-374b-991f-90de-f140334f5209-a5d5cc85.jpeg",
+  "bytes": 282036,
+  "at": "2026-11-17 01:41"
+ },
+ "f15-stamp": {
+  "prompt": "A worn temple register book open to a page of red seal stamps in a grid, one fresh seal still glossy, a carved stone seal resting beside an ink pad, warm desk light",
+  "file": "images/f15-stamp.jpg",
+  "block": "F15",
+  "sub": "F15-03",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-eb5b8cb8-4550-9c72-a0f9-dfb03db227b7-858a3e0e.jpeg",
+  "bytes": 298671,
+  "at": "2026-11-17 01:41"
+ },
+ "f13-child": {
+  "prompt": "A small child attendant in simple pale robes standing one and a half steps ahead, half turned, holding a small lamp, head tilted as if listening, vast white hall behind, figure very small in frame",
+  "file": "images/f13-child.jpg",
+  "block": "F13",
+  "sub": "F13-03",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-8661f6e0-1c48-9794-813e-082a89dd3fdc-a583fe26.jpeg",
+  "bytes": 203750,
+  "at": "2026-11-17 01:41"
+ },
+ "f13-roles": {
+  "prompt": "Eight distinct temple figures standing at different distances in a vast hall: a child attendant, a seated monk, a glowing orb, a shopkeeper behind a counter, a hall keeper with a cloth, a kitchen greeter, two worshippers, one sweeper, all small in frame, wide shot",
+  "file": "images/f13-roles.jpg",
+  "block": "F13",
+  "sub": "F13-02",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-a58e0135-ca34-9abe-8437-245b20bf2a69-d99fbc9f.jpeg",
+  "bytes": 260953,
+  "at": "2026-11-17 01:42"
+ },
+ "f04-master-xiaoyun": {
+  "prompt": "Buddhist nun in her forties, shaved head, plain pale grey robe, seated on a low couch, hands folded in lap, eyes lowered, extremely still, quiet and warm, no ornament",
+  "file": "images/f04-master-xiaoyun.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-3ddcd910-8d13-9c7d-949d-a3c23ad82a0d-09f19e8f.jpeg",
+  "bytes": 230133,
+  "at": "2026-11-17 01:42"
+ },
+ "f04-master-mingjing": {
+  "prompt": "Lean Buddhist monk in his thirties, shaved head, plain undyed robe, seated upright with hands on knees, direct calm gaze toward the viewer but face half in shadow, austere",
+  "file": "images/f04-master-mingjing.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-9fde932f-2457-9f0d-a9ee-27b8c89ffe83-9ad651d2.jpeg",
+  "bytes": 239241,
+  "at": "2026-11-17 01:42"
+ },
+ "f04-master-chengyuan": {
+  "prompt": "Very old Buddhist monk, deeply lined face, thin white stubble, worn ochre robe, seated slightly hunched, one hand resting on a wooden staff, gentle and slow",
+  "file": "images/f04-master-chengyuan.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-d007c84c-7c88-948f-89fa-bc2b17424ea3-e0c9e63e.jpeg",
+  "bytes": 309683,
+  "at": "2026-11-17 01:43"
+ },
+ "f04-master-xiaoshi": {
+  "prompt": "Young Buddhist monk around twenty, round face, plain grey robe slightly untidy, sitting cross-legged with a faint smile, sleeves rolled, practical and unceremonious",
+  "file": "images/f04-master-xiaoshi.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-7d1ca97b-7e11-9ef7-9e13-19388425ee8b-b87ca762.jpeg",
+  "bytes": 275497,
+  "at": "2026-11-17 01:43"
+ },
+ "f04-master-liandeng": {
+  "prompt": "Young Buddhist nun around twenty-five, shaved head, pale blue-grey robe, holding a small folded paper, attentive expression, soft light from the side",
+  "file": "images/f04-master-liandeng.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-1b0b0ed8-7c4b-9440-9759-2cbfcd665c1d-81d3bbca.jpeg",
+  "bytes": 274288,
+  "at": "2026-11-17 01:43"
+ },
+ "f04-master-moxuan": {
+  "prompt": "Elderly Taoist priest, long thin white beard, dark blue-black robe with subtle cloud embroidery, seated behind a low table with an oil lamp, distant and restrained, hands hidden in sleeves",
+  "file": "images/f04-master-moxuan.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-590306a7-b75a-98c9-8bd9-9106e7ad0c6e-7b84fe17.jpeg",
+  "bytes": 232802,
+  "at": "2026-11-17 01:44"
+ },
+ "f04-master-yexun": {
+  "prompt": "Taoist priest in his thirties, hair tied in a topknot, dark grey robe, standing in a doorway at night holding a small hand lantern, cold blue light, unsmiling",
+  "file": "images/f04-master-yexun.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-4d230a16-e4a1-992f-b2b7-a5a79b12a169-52d26f80.jpeg",
+  "bytes": 311216,
+  "at": "2026-11-17 01:44"
+ },
+ "f04-master-liuhuo": {
+  "prompt": "Young Taoist priest around twenty-five, hair in a loose topknot, dark red-brown robe sleeves pushed up, leaning forward as if about to stand, energetic",
+  "file": "images/f04-master-liuhuo.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-41a31d5d-69e5-9ad2-a5a3-6c4c5787329f-410ec3da.jpeg",
+  "bytes": 282776,
+  "at": "2026-11-17 01:45"
+ },
+ "f04-master-taoyan": {
+  "prompt": "Taoist nun in her thirties, hair in a simple bun with a wooden pin, muted rose-grey robe, seated with a tea cup, soft and observant, faint smile",
+  "file": "images/f04-master-taoyan.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-e8bf7194-7059-9c42-b8f4-ee2b62f2fb46-5e5dd7dc.jpeg",
+  "bytes": 269289,
+  "at": "2026-11-17 01:45"
+ },
+ "f04-master-hanxing": {
+  "prompt": "Taoist nun around thirty, hair pulled back severely, pale grey robe, standing with arms folded, sharp direct gaze, cold light, no smile",
+  "file": "images/f04-master-hanxing.jpg",
+  "block": "F04",
+  "sub": "",
+  "url": "https://imgen.x.ai/xai-imgen/xai-tmp-imgen-a4c467c3-805f-90d2-96b7-b815a3358566-19b9cbf3.jpeg",
+  "bytes": 251394,
+  "at": "2026-11-17 01:45"
+ }
+}
